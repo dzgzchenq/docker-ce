@@ -3,7 +3,7 @@
 mount /dev/vdb1 /mnt
 
 yum -y install vim-enhanced
-cp ./vimrc ~/.vimrc
+cp /mnt/docker-ce/centos/vimrc ~/.vimrc
 echo "alias vi='vim'" >> ~/.bashrc
 
 yum -y install git
