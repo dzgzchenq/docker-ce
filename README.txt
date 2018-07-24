@@ -1,6 +1,6 @@
-docker-compose
-centos/container-selinux-2.33-1.git86f33cd.el7.noarch.rpm
-centos/docker-ce-17.12.0.ce-1.el7.centos.x86_64.rpm
-centos/libseccomp-2.3.1-3.el7.x86_64.rpm
-centos/libtool-ltdl-2.4.2-22.el7_3.x86_64.rpm
-ubuntu/docker-ce_17.12.0~ce-0~ubuntu_amd64.deb
+./centos/container-selinux-2.33-1.git86f33cd.el7.noarch.rpm
+./centos/docker-ce-17.12.0.ce-1.el7.centos.x86_64.rpm
+./centos/libseccomp-2.3.1-3.el7.x86_64.rpm
+./centos/libtool-ltdl-2.4.2-22.el7_3.x86_64.rpm
+./ubuntu/docker-ce_18.03.1~ce~3-0~ubuntu_amd64.deb
+./ubuntu/libltdl7_2.4.6-2_amd64.deb
