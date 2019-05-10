@@ -2,5 +2,6 @@
 ./centos/docker-ce-17.12.0.ce-1.el7.centos.x86_64.rpm
 ./centos/libseccomp-2.3.1-3.el7.x86_64.rpm
 ./centos/libtool-ltdl-2.4.2-22.el7_3.x86_64.rpm
-./ubuntu/docker-ce_18.03.1~ce~3-0~ubuntu_amd64.deb
-./ubuntu/libltdl7_2.4.6-2_amd64.deb
+./ubuntu/containerd.io_1.2.5-1_amd64.deb
+./ubuntu/docker-ce_18.09.6~3-0~ubuntu-bionic_amd64.deb
+./ubuntu/docker-ce-cli_18.09.6~3-0~ubuntu-bionic_amd64.deb
